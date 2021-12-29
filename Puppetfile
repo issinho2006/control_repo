@@ -5,6 +5,9 @@ mod 'puppetlabs-ntp', '9.1.0'
 mod 'apache',
   :git => 'git@github.com:issinho2006/puppet-apache.git'
 
+mod 'base',
+  :git => 'git@github.com:issinho2006/puppet-base.git'
+
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
 #mod 'puppetlabs/inifile', '5.0.1'
